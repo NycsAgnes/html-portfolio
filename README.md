@@ -1,2 +1,2 @@
 # html-portfolio
-Website to show everyonewhat I've learned so far in HTML coding.
+Website to show everyone what I've learned so far in HTML coding.
